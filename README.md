@@ -81,7 +81,7 @@ Sebuah aplikasi berbasis GUI (Graphical User Interface) sederhana yang dapat dig
 ## Video Capture
 <nl>
 
-![MST-Clustering Gif](https://github.com/rifqifarhansyah/CompresserString-WebApp/blob/main/img/textCompresser.gif?raw=true)
+![MST-Clustering Gif](https://github.com/rifqifarhansyah/MST-Visualizer/blob/main/img/MST.gif?raw=true)
 
 <a name="screenshots"></a>
 
